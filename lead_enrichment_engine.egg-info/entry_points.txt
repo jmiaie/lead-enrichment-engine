@@ -1,2 +1,0 @@
-[console_scripts]
-enrich-lead = lead_enrichment.cli:main
